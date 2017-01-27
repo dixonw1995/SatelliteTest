@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SatelliteTest</string>
+    <string name="sat">SatelliteTest</string>
+    <string name = "azi">Azimuth</string>
+    <string name = "ele">Elevation</string>
+    <string name = "prn">PRN</string>
+    <string name = "snr">SNR</string>
+</resources>
